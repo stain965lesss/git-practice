@@ -1,3 +1,4 @@
 output.log
 *.csv
 logs/
+ignore_file.txt
